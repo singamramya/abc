@@ -16,6 +16,7 @@ const Greet=(props)=>{
     return (
     <div>
     <h1>Hello {name} From {address}</h1>
+<h1>Hello chandrika</h1>
     {children}
     </div>
     )
